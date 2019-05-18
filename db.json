@@ -1,0 +1,23 @@
+[
+  {
+    id:1,
+    title: story America,
+    author: Sam Samerson,
+    story: Lorem ipsum dolor amet bitters neutra stumptown single-origin coffee. Listicle hell of la croix cold-pressed brooklyn etsy iPhone distillery DIY williamsburg tumeric semiotics 3 wolf moon bitters. Actually cred pinterest, flexitarian helvetica vegan hashtag hella kogi af knausgaard chambray health goth squid. Stumptown everyday carry ennui yr, pug fam yuccie portland glossier photo booth readymade.
+    highlighted_text: Lorem ipsum dolor amet bitters
+   },
+     {
+    id:2,
+    title: story India,
+    author: John Johnson,
+    story: Lorem ipsum dolor amet bitters neutra stumptown single-origin coffee. Listicle hell of la croix cold-pressed brooklyn etsy iPhone distillery DIY williamsburg tumeric semiotics 3 wolf moon bitters. Actually cred pinterest, flexitarian helvetica vegan hashtag hella kogi af knausgaard chambray health goth squid. Stumptown everyday carry ennui yr, pug fam yuccie portland glossier photo booth readymade.
+    highlighted_text: Lorem ipsum dolor amet bitters
+   },
+     {
+    id:3,
+    title: story Korea,
+    author: Kim Son,
+    story: Lorem ipsum dolor amet bitters neutra stumptown single-origin coffee. Listicle hell of la croix cold-pressed brooklyn etsy iPhone distillery DIY williamsburg tumeric semiotics 3 wolf moon bitters. Actually cred pinterest, flexitarian helvetica vegan hashtag hella kogi af knausgaard chambray health goth squid. Stumptown everyday carry ennui yr, pug fam yuccie portland glossier photo booth readymade.
+    highlighted_text: Lorem ipsum dolor amet bitters
+   }
+]
